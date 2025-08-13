@@ -1,0 +1,23 @@
+| ESP32 Pin (Wokwi) | OLED Pin |
+| ----------------- | -------- |
+| 3V3               | VCC      |
+| GND               | GND      |
+| 22                | SCL      |
+| 21                | SDA      |
+
+| ESP32 Pin (Wokwi) | Potentiometer Pin |
+| ----------------- | ----------------- |
+| 3V3               | VCC               |
+| GND               | GND               |
+| 34                | Middle Pin (OUT)  |
+
+| ESP32 Pin | LED Pin     |
+| --------- | ----------- |
+| 25        | Anode (+)   |
+| GND       | Cathode (–) |
+
+| ESP32 Pin | Buzzer Pin |
+| --------- | ---------- |
+| 26        | +          |
+| GND       | –          |
+
